@@ -10,7 +10,7 @@ My profile style
 </header>
 
 <section class="links">
-  <img height="150" alt="coding-time" src="code.gif">
+  <img height="150" alt="coding-time" src="[code.gif"](https://raw.githubusercontent.com/LuigiGf/LuigiGf/ba372fbf66fda5a2bc3d3c1757fd22f603fc76b5/code.gif)">
   <div class="main">
     <div>
     <img align="center" height="30" width="40" alt="c-icon" src="https://miro.medium.com/v2/resize:fit:1024/1*jkOCjQlkGZjbhWdvh7LfRA.png">
