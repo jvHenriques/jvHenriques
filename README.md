@@ -23,10 +23,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: jorgeviniciush@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
     </a>
     <a href = "https://www.linkedin.com/in/jorge-vin%C3%ADcius-henriques-6557a9303/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://t4.ftcdn.net/jpg/03/60/65/35/360_F_360653587_Cb8CVKwN3qv97h0gAwQ9kxurkZJiuKbx.jpg">
     </a>
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
       <img width="35" src="youtube.svg">
