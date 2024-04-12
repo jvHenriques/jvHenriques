@@ -24,7 +24,6 @@ My profile style
    
 
     
-    <div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: jorgeviniciush@gmail.com">
       <img width="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
