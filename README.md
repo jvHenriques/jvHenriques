@@ -22,8 +22,7 @@ My profile style
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png">
     </div>
    
-    <br>
-    <br>
+
     
     <div>
   <h1 align="center">Redes Sociais</h1>
