@@ -28,12 +28,12 @@
     <a href = "https://www.linkedin.com/in/jorge-vin%C3%ADcius-henriques-6557a9303/">
       <img width="25" src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+<!--     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="instagram.png">
-    </a>
+    </a> -->
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
